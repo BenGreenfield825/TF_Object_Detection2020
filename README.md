@@ -9,3 +9,11 @@ I'm currently working on a research project for my univeristy that requires obje
 I've now made my own YouTube tutorial following the process of seting up object detection in 2020. You can watch this video here: https://www.youtube.com/watch?v=usR2LQuxhL4
 
 ![Video Thumbnail](https://github.com/Bengemon825/TF_Object_Detection2020/blob/master/other/tensorflow%20object%20detection%20tutorial.jpg)
+
+Video for setting up a custom model: https://youtu.be/C5-SEZ_IvaM
+
+![Video Thumbnail2](https://github.com/Bengemon825/TF_Object_Detection2020/blob/master/other/object%20detection%20-%20custom%20model.jpg)
+
+Video on training a custom model: https://youtu.be/_gGI91BmIdk
+
+![Video Thumbnail3](https://github.com/Bengemon825/TF_Object_Detection2020/blob/master/other/object%20detection%20-%20training.jpg)
