@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images - 2020-07-15T160422.163.jpg</filename>
+	<path>C:\Users\Ben\Desktop\masks\images\images - 2020-07-15T160422.163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>130</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>5</ymin>
+			<xmax>280</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

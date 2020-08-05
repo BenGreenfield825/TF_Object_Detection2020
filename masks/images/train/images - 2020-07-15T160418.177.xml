@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images - 2020-07-15T160418.177.jpg</filename>
+	<path>C:\Users\Ben\Desktop\masks\images\images - 2020-07-15T160418.177.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>91</ymin>
+			<xmax>228</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>27</ymin>
+			<xmax>222</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

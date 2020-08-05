@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (18).jpg</filename>
+	<path>C:\Users\Ben\Desktop\masks\images\images (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>159</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>49</ymin>
+			<xmax>159</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

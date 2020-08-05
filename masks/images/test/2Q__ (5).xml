@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2Q__ (5).jpg</filename>
+	<path>C:\Users\Ben\Desktop\masks\images\2Q__ (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>27</ymin>
+			<xmax>100</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

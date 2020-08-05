@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>9k_ (9).jpg</filename>
+	<path>C:\Users\Ben\Desktop\masks\images\9k_ (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>40</ymin>
+			<xmax>202</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cloth_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>114</ymin>
+			<xmax>207</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

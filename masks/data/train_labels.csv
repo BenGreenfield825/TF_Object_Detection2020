@@ -1,0 +1,213 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+9k_ (11).jpg,226,223,cloth_mask,22,149,90,200
+9k_ (11).jpg,226,223,cloth_mask,118,106,206,177
+9k_ (12).jpg,275,183,cloth_mask,96,75,175,144
+9k_ (13).jpg,225,225,cloth_mask,1,59,225,176
+9k_.jpg,100,100,cloth_mask,15,43,100,88
+images (1).jpg,100,100,cloth_mask,38,35,70,58
+images (10).jpg,100,100,cloth_mask,24,44,76,91
+images (100).jpg,183,275,cloth_mask,2,115,183,235
+images (11).jpg,100,100,cloth_mask,4,16,100,85
+images (12).jpg,100,100,cloth_mask,8,47,100,100
+images (12).jpg,100,100,cloth_mask,7,1,94,42
+images (13).jpg,100,100,cloth_mask,54,26,73,37
+images (14).jpg,196,196,cloth_mask,1,16,196,182
+images (15).jpg,196,196,cloth_mask,1,42,196,152
+images (16).jpg,156,196,cloth_mask,62,119,156,196
+images (17).jpg,196,196,cloth_mask,1,59,196,138
+images (18).jpg,159,159,cloth_mask,1,49,159,107
+images (19).jpg,159,121,cloth_mask,1,8,159,115
+images (2).jpg,100,100,cloth_mask,13,52,88,99
+images (20).jpg,159,159,cloth_mask,1,36,159,122
+images (21).jpg,159,110,cloth_mask,1,1,159,109
+images (22).jpg,159,159,cloth_mask,18,89,142,159
+images (23).jpg,159,159,cloth_mask,1,41,159,120
+images (24).jpg,159,159,cloth_mask,1,21,159,139
+images (25).jpg,275,183,cloth_mask,106,70,211,144
+images (26).jpg,247,204,cloth_mask,2,39,243,160
+images (27).jpg,225,225,cloth_mask,1,39,225,173
+images (28).jpg,225,225,cloth_mask,3,45,224,181
+images (29).jpg,100,100,cloth_mask,27,36,60,66
+images (3).jpg,100,100,cloth_mask,30,44,76,67
+images (32).jpg,225,225,cloth_mask,54,95,170,168
+images (33).jpg,225,225,cloth_mask,11,29,212,212
+images (34).jpg,225,225,cloth_mask,17,90,122,182
+images (35).jpg,225,225,cloth_mask,3,79,224,150
+images (36).jpg,225,225,cloth_mask,47,87,175,200
+images (37).jpg,296,170,cloth_mask,100,82,200,167
+images (38).jpg,318,159,cloth_mask,185,56,318,108
+images (39).jpg,225,225,cloth_mask,76,71,204,197
+images (4).jpg,100,100,cloth_mask,28,76,80,99
+images (40).jpg,225,225,cloth_mask,12,18,213,178
+images (41).jpg,204,247,cloth_mask,108,118,204,215
+images (43).jpg,159,122,cloth_mask,1,8,159,115
+images (44).jpg,159,82,cloth_mask,1,4,159,79
+images (45).jpg,177,177,cloth_mask,50,74,155,159
+images (47).jpg,159,110,cloth_mask,1,2,159,110
+images (48).jpg,159,159,cloth_mask,1,39,159,120
+images (49).jpg,196,136,cloth_mask,1,2,194,136
+images (5).jpg,100,100,cloth_mask,56,50,96,85
+images (52).jpg,159,159,cloth_mask,34,86,120,155
+images (53).jpg,196,196,cloth_mask,47,112,149,192
+images (54).jpg,133,177,cloth_mask,18,107,114,159
+images (55).jpg,177,177,cloth_mask,1,93,177,156
+images (55).jpg,177,177,cloth_mask,1,20,177,87
+images (56).jpg,159,110,cloth_mask,1,1,159,110
+images (57).jpg,159,159,cloth_mask,1,49,159,108
+images (58).jpg,177,133,cloth_mask,32,66,162,119
+images (59).jpg,159,133,cloth_mask,1,14,159,112
+images (6).jpg,100,100,cloth_mask,7,1,89,100
+images (60).jpg,225,225,cloth_mask,35,104,102,159
+images (61).jpg,201,251,cloth_mask,25,106,135,196
+images (62).jpg,282,179,cloth_mask,71,98,132,178
+images (62).jpg,282,179,cloth_mask,1,56,78,98
+images (62).jpg,282,179,cloth_mask,145,58,225,98
+images (63).jpg,225,225,cloth_mask,17,85,225,176
+images (64).jpg,275,183,cloth_mask,36,77,212,173
+images (65).jpg,299,168,cloth_mask,27,81,85,122
+images (65).jpg,299,168,cloth_mask,164,30,229,92
+images (66).jpg,225,225,cloth_mask,68,89,161,166
+images (67).jpg,259,194,cloth_mask,84,77,181,165
+images (68).jpg,268,188,cloth_mask,54,113,268,188
+images (69).jpg,281,180,cloth_mask,10,67,241,180
+images (7).jpg,100,100,cloth_mask,16,39,74,78
+images (70).jpg,225,225,cloth_mask,62,94,170,179
+images (71).jpg,224,224,cloth_mask,71,70,137,124
+images (72).jpg,194,259,cloth_mask,46,85,145,171
+images (73).jpg,225,225,cloth_mask,70,102,159,175
+images (74).jpg,183,100,cloth_mask,58,51,129,100
+images (75).jpg,183,275,cloth_mask,14,60,110,140
+images (75).jpg,183,275,cloth_mask,13,214,65,261
+images (75).jpg,183,275,cloth_mask,111,217,169,267
+images (76).jpg,225,224,cloth_mask,2,47,225,201
+images (78).jpg,183,275,cloth_mask,17,78,168,142
+images (79).jpg,275,183,cloth_mask,102,70,160,115
+images (80).jpg,284,177,cloth_mask,34,35,244,177
+images (81).jpg,225,225,cloth_mask,43,107,184,204
+images (82).jpg,225,225,cloth_mask,1,38,225,175
+images (83).jpg,225,225,cloth_mask,67,94,145,151
+images (84).jpg,225,225,cloth_mask,83,82,175,166
+images (85).jpg,290,174,cloth_mask,143,89,290,174
+images (86).jpg,194,259,cloth_mask,42,105,136,195
+images (87).jpg,290,174,cloth_mask,25,82,111,142
+images (87).jpg,290,174,cloth_mask,147,102,290,164
+images (87).jpg,290,174,cloth_mask,146,10,290,75
+images (88).jpg,225,225,cloth_mask,69,104,159,175
+images (89).jpg,300,168,cloth_mask,85,13,300,156
+images (9).jpg,100,100,cloth_mask,26,42,97,76
+images (90).jpg,183,275,cloth_mask,52,81,150,163
+images (91).jpg,225,225,cloth_mask,66,92,153,154
+images (92).jpg,254,198,cloth_mask,91,73,179,132
+images (93).jpg,126,159,cloth_mask,47,97,120,157
+images (94).jpg,159,159,cloth_mask,3,47,42,72
+images (94).jpg,159,159,cloth_mask,70,46,105,74
+images (94).jpg,159,159,cloth_mask,130,50,159,76
+images (95).jpg,138,177,cloth_mask,1,53,74,95
+images (96).jpg,177,177,cloth_mask,14,67,177,140
+images (97).jpg,225,225,cloth_mask,71,109,168,190
+images (98).jpg,225,225,cloth_mask,6,60,221,207
+images (99).jpg,225,225,cloth_mask,43,89,179,199
+images - 2020-07-15T160417.587.jpg,275,183,cloth_mask,24,95,132,145
+images - 2020-07-15T160417.587.jpg,275,183,cloth_mask,138,97,253,147
+images - 2020-07-15T160417.721.jpg,194,259,cloth_mask,58,128,153,209
+images - 2020-07-15T160417.800.jpg,225,225,cloth_mask,81,81,140,126
+images - 2020-07-15T160417.839.jpg,255,198,cloth_mask,45,63,203,192
+images - 2020-07-15T160417.899.jpg,300,168,cloth_mask,180,129,237,166
+images - 2020-07-15T160418.176.jpg,300,168,cloth_mask,54,60,269,157
+images - 2020-07-15T160418.177.jpg,275,183,cloth_mask,59,91,228,159
+images - 2020-07-15T160418.177.jpg,275,183,cloth_mask,60,27,222,89
+images - 2020-07-15T160418.254.jpg,197,256,cloth_mask,2,2,194,254
+images - 2020-07-15T160418.269.jpg,225,225,cloth_mask,70,82,161,154
+images - 2020-07-15T160418.314.jpg,300,168,cloth_mask,177,107,300,154
+images - 2020-07-15T160418.314.jpg,300,168,cloth_mask,63,35,95,61
+images - 2020-07-15T160418.393.jpg,225,225,cloth_mask,17,59,219,175
+images - 2020-07-15T160418.479.jpg,225,225,cloth_mask,92,55,147,91
+images - 2020-07-15T160418.482.jpg,225,225,cloth_mask,61,96,160,178
+images - 2020-07-15T160418.520.jpg,194,259,cloth_mask,52,95,140,166
+images - 2020-07-15T160418.592.jpg,225,225,cloth_mask,23,66,206,149
+images - 2020-07-15T160418.832.jpg,225,225,cloth_mask,2,44,223,180
+images - 2020-07-15T160418.886.jpg,267,189,cloth_mask,23,77,115,181
+images - 2020-07-15T160418.886.jpg,267,189,cloth_mask,155,80,257,184
+images - 2020-07-15T160418.900.jpg,224,224,cloth_mask,77,72,151,124
+images - 2020-07-15T160418.961.jpg,225,225,cloth_mask,24,33,204,176
+images - 2020-07-15T160419.046.jpg,201,251,cloth_mask,13,58,188,199
+images - 2020-07-15T160419.092.jpg,183,275,cloth_mask,40,13,169,138
+images - 2020-07-15T160419.199.jpg,219,230,cloth_mask,60,92,135,157
+images - 2020-07-15T160419.208.jpg,303,166,cloth_mask,55,94,148,163
+images - 2020-07-15T160419.325.jpg,218,231,cloth_mask,82,82,162,150
+images - 2020-07-15T160419.498.jpg,275,183,cloth_mask,4,41,267,156
+images - 2020-07-15T160419.539.jpg,194,259,cloth_mask,14,163,172,240
+images - 2020-07-15T160419.567.jpg,275,183,cloth_mask,98,76,185,149
+images - 2020-07-15T160419.597.jpg,225,225,cloth_mask,2,48,225,168
+images - 2020-07-15T160419.691.jpg,183,275,cloth_mask,77,89,155,161
+images - 2020-07-15T160419.784.jpg,190,265,cloth_mask,58,124,139,184
+images - 2020-07-15T160419.812.jpg,201,251,cloth_mask,42,116,135,184
+images - 2020-07-15T160419.878.jpg,286,176,cloth_mask,38,68,108,129
+images - 2020-07-15T160419.878.jpg,286,176,cloth_mask,166,55,226,119
+images - 2020-07-15T160419.989.jpg,195,259,cloth_mask,23,109,135,208
+images - 2020-07-15T160420.485.jpg,194,259,cloth_mask,1,35,73,195
+images - 2020-07-15T160420.508.jpg,197,256,cloth_mask,1,1,196,256
+images - 2020-07-15T160420.536.jpg,289,174,cloth_mask,1,80,113,174
+images - 2020-07-15T160420.632.jpg,225,225,cloth_mask,90,53,140,87
+images - 2020-07-15T160420.742.jpg,197,256,cloth_mask,26,163,96,214
+images - 2020-07-15T160420.841.jpg,246,205,cloth_mask,1,10,246,201
+images - 2020-07-15T160420.918.jpg,225,225,cloth_mask,3,14,225,191
+images - 2020-07-15T160421.080.jpg,208,242,cloth_mask,32,103,175,212
+images - 2020-07-15T160421.129.jpg,213,237,cloth_mask,110,152,213,202
+images - 2020-07-15T160421.129.jpg,213,237,cloth_mask,1,32,108,79
+images - 2020-07-15T160421.194.jpg,259,194,cloth_mask,53,112,259,194
+images - 2020-07-15T160421.230.jpg,225,225,cloth_mask,59,67,176,170
+images - 2020-07-15T160421.250.jpg,225,225,cloth_mask,51,105,167,207
+images - 2020-07-15T160421.327.jpg,300,168,cloth_mask,89,81,204,132
+images - 2020-07-15T160421.427.jpg,225,225,cloth_mask,15,28,215,206
+images - 2020-07-15T160421.473.jpg,225,225,cloth_mask,1,40,225,172
+images - 2020-07-15T160421.657.jpg,225,225,cloth_mask,104,107,189,179
+images - 2020-07-15T160421.757.jpg,225,225,cloth_mask,8,16,220,186
+images - 2020-07-15T160421.805.jpg,225,225,cloth_mask,1,58,222,159
+images - 2020-07-15T160421.806.jpg,216,233,cloth_mask,40,74,117,153
+images - 2020-07-15T160421.806.jpg,216,233,cloth_mask,130,107,195,158
+images - 2020-07-15T160421.907.jpg,183,275,cloth_mask,1,62,183,215
+images - 2020-07-15T160421.994.jpg,275,183,cloth_mask,52,2,243,177
+images - 2020-07-15T160422.163.jpg,280,130,cloth_mask,3,5,280,123
+images - 2020-07-15T160422.199.jpg,177,284,cloth_mask,49,123,159,225
+images - 2020-07-15T160422.218.jpg,276,183,cloth_mask,99,47,169,106
+images - 2020-07-15T160422.337.jpg,289,174,cloth_mask,1,2,289,174
+images - 2020-07-15T160422.368.jpg,294,171,cloth_mask,49,16,258,156
+images - 2020-07-15T160422.444.jpg,225,225,cloth_mask,2,44,225,176
+images - 2020-07-15T160422.499.jpg,300,168,cloth_mask,1,1,173,168
+images - 2020-07-15T160422.683.jpg,275,183,cloth_mask,118,70,273,181
+images - 2020-07-15T160422.764.jpg,296,170,cloth_mask,35,82,167,170
+images - 2020-07-15T160422.895.jpg,225,225,cloth_mask,46,72,101,120
+images - 2020-07-15T160422.895.jpg,225,225,cloth_mask,120,102,183,151
+images - 2020-07-15T160422.908.jpg,225,225,cloth_mask,45,54,209,217
+images - 2020-07-15T160422.960.jpg,259,194,cloth_mask,47,72,208,194
+images - 2020-07-15T160423.025.jpg,216,234,cloth_mask,25,4,182,231
+images - 2020-07-15T160423.040.jpg,225,225,cloth_mask,9,62,65,106
+images - 2020-07-15T160423.040.jpg,225,225,cloth_mask,84,52,141,104
+images - 2020-07-15T160423.254.jpg,225,225,cloth_mask,70,117,156,183
+images - 2020-07-15T160423.315.jpg,204,247,cloth_mask,59,93,171,174
+images - 2020-07-15T160423.438.jpg,311,162,cloth_mask,1,76,180,162
+images - 2020-07-15T160423.438.jpg,311,162,cloth_mask,183,64,311,162
+images - 2020-07-15T160423.470.jpg,225,225,cloth_mask,1,22,208,191
+images - 2020-07-15T160423.479.jpg,311,162,cloth_mask,2,71,75,127
+images - 2020-07-15T160423.620.jpg,187,270,cloth_mask,23,1,157,267
+images - 2020-07-15T160423.627.jpg,288,175,cloth_mask,71,55,143,116
+images - 2020-07-15T160423.763.jpg,275,183,cloth_mask,169,105,238,170
+images - 2020-07-15T160423.781.jpg,225,225,cloth_mask,1,40,225,174
+images - 2020-07-15T160423.851.jpg,324,155,cloth_mask,123,63,214,133
+images - 2020-07-15T160423.989.jpg,225,225,cloth_mask,64,107,158,178
+images - 2020-07-15T160424.037.jpg,225,225,cloth_mask,4,92,112,181
+images - 2020-07-15T160424.184.jpg,225,225,cloth_mask,69,98,173,184
+images - 2020-07-15T160424.410.jpg,311,162,cloth_mask,20,43,293,135
+images - 2020-07-15T160424.421.jpg,300,168,cloth_mask,139,51,190,94
+images - 2020-07-15T160424.422.jpg,259,194,cloth_mask,95,62,163,113
+images - 2020-07-15T160424.535.jpg,183,275,cloth_mask,36,63,163,161
+images - 2020-07-15T160424.558.jpg,188,268,cloth_mask,29,111,152,184
+images - 2020-07-15T160424.582.jpg,183,275,cloth_mask,11,78,168,208
+images - 2020-07-15T160424.661.jpg,262,192,cloth_mask,101,26,211,95
+images - 2020-07-15T160424.690.jpg,279,181,cloth_mask,11,8,279,175
+images - 2020-07-15T160424.899.jpg,269,187,cloth_mask,2,15,263,186
+images - 2020-07-15T160424.996.jpg,300,168,cloth_mask,34,4,271,160
+images - 2020-07-15T160425.010.jpg,226,223,cloth_mask,58,85,154,165
+images - 2020-07-15T160425.108.jpg,225,225,cloth_mask,3,46,225,181
+images - 2020-07-15T160425.210.jpg,202,249,cloth_mask,9,84,197,167
