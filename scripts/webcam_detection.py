@@ -60,8 +60,8 @@ for file in tar_file.getmembers():
 
 detection_graph = tf.Graph()
 with detection_graph.as_default():
-    od_graph_def = tf.GraphDef()
-    with tf.gfile.GFile(PATH_TO_CKPT, 'rb') as fid:
+    od_graph_def = tf.compat.v1.GraphDef() 
+    with tf.compat.v2.io..gfile.GFile(PATH_TO_CKPT, 'rb') as fid:
         serialized_graph = fid.read()
         od_graph_def.ParseFromString(serialized_graph)
         tf.import_graph_def(od_graph_def, name='')
@@ -105,7 +105,7 @@ IMAGE_SIZE = (12, 8)
 # In[10]:
 
 with detection_graph.as_default():
-    with tf.Session(graph=detection_graph) as sess:
+    with tf.compat.v1.Session(graph=detection_graph) as sess:
         while True:
             ret, image_np = cap.read()
             # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
