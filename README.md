@@ -1,5 +1,8 @@
 # TF_Object_Detection2020
 
+# [New repo and tutorial for Tensorflow 2 now available!](https://github.com/Bengemon825/Tensorflow-Object-Detection-with-Tensorflow-2.0)
+Updated tutorial and video available through the above link!
+
 ***This project heavily relies on the processes and code from TensorFlow and sentdex's tutorial on YouTube***
 -------------------------------------------------------------------------------------------------------------
 ***Support for object detection in TensorFlow 2 was just released. As of now, this repository is based on TF1***
